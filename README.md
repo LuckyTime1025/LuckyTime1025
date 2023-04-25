@@ -14,13 +14,13 @@
 
 <p align="center">
   <a mailto="luckytime1025@gmail.com">
-    <img src="./media/mail.svg"/>
+    <img src="./media/gmail.svg"/>
   </a>
   <a href="https://t.me/LuckyTime1025">
     <img src="./media/telegram.svg">
   </a>
   <a href="https://twitter.com/Lucky18392706?s=09">
-    <img src="./media/twitter.svg"/>
+    <img src="./media/twitter.gif"/>
   </a>
 </p>
 <!--
