@@ -1,18 +1,25 @@
-### Hi there 👋
-<div align="center"> <img src="https://visitor-badge.glitch.me/badge?page_id=sun0225SUN" /> </div>
-<div align="center"> <img src="https://activity-graph.herokuapp.com/graph?username=sun0225SUN&theme=xcode" /> </div>
-<h1 align="center"> <a href="https://sunguoqi.com/"> <img src="https://readme-typing-svg.herokuapp.com/?lines=console.log(%22Hello%2C%20World!%22);小孙同学祝您今天愉快!&center=true&size=27"> </a> </h1>
-<!--
-**LuckyTime1025/LuckyTime1025** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<head>
 
-Here are some ideas to get you started:
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.15.1/devicon.min.css">
+
+</head>
+
+![](./media/)
+
+<p>I am an aspiring full stack developer. I have experience working with Java, Python, and Rust.
+</p>
+<h2 align="center">Connect with Me !! 🤝</h2>
+
+<p align="center">
+  <a>
+    <img src="./media/mail.svg"/>
+  </a>
+  <a>
+    <img src="./media/telegram.svg">
+  </a>
+  <a>
+    <img src="./media/twitter.svg"/>
+  </a>
+</p>
