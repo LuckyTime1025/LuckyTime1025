@@ -9,13 +9,13 @@
 <h2 align="center">Connect with Me !! 🤝</h2>
 
 <p align="center">
-  <a href="mailto:LuckyTime1025<luckytime1025@gmail.com>" target="_blank">
+  <a href="mailto:LuckyTime1025<luckytime1025@gmail.com>">
     <img src="./media/gmail.svg"/>
   </a>
-  <a href="https://t.me/LuckyTime1025" target="_blank">
+  <a href="https://t.me/LuckyTime1025">
     <img src="./media/telegram.svg">
   </a>
-  <a href="https://twitter.com/Lucky18392706?s=09" target="_blank">
+  <a href="https://twitter.com/Lucky18392706?s=09">
     <img src="./media/twitter.gif"/>
   </a>
 </p>
