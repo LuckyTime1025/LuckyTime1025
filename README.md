@@ -1,19 +1,15 @@
 <head>
 
-<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
-
-<link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.15.1/devicon.min.css">
-
 </head>
 
-![](./media/banner.png)
+![banner](./media/banner.png)
 
 <p>I am an aspiring full stack developer. I have experience working with Java, Python, and Rust.
 </p>
 <h2 align="center">Connect with Me !! 🤝</h2>
 
 <p align="center">
-  <a mailto="luckytime1025@gmail.com">
+  <a href="mailto:LuckyTime1025<luckytime1025@gmail.com>">
     <img src="./media/gmail.svg"/>
   </a>
   <a href="https://t.me/LuckyTime1025">
