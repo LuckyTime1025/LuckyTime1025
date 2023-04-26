@@ -4,7 +4,7 @@
 
 ![banner](./media/banner.png)
 
-<p>I am an aspiring full stack developer. I have experience working with Java, Python, and Rust.
+<p>I am an aspiring full stack developer. I have experience working with Java, Python, Go and Rust.
 </p>
 <h2 align="center">Connect with Me !! 🤝</h2>
 
