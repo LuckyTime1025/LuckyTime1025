@@ -5,7 +5,7 @@
 ![banner](./media/banner.png)
 
 ```mermaid
-graph TD;
+graph TB;
      A-->B;
      A-->C;
      B-->D;
