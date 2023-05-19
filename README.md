@@ -5,7 +5,7 @@
 ![banner](./media/banner.png)
 
 ```mermaid
-flowchart TD;
+graph TD;
      A-->B;
      A-->C;
      B-->D;
