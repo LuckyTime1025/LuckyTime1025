@@ -4,6 +4,14 @@
 
 ![banner](./media/banner.png)
 
+```mermaid
+flowchart TD;
+     A-->B;
+     A-->C;
+     B-->D;
+     C-->D;
+```
+
 <p>I am an aspiring full stack developer. I have experience working with Java, Python, Go and Rust.
 </p>
 <h2 align="center">Connect with Me !! 🤝</h2>
@@ -22,13 +30,6 @@
 <!--
 **LuckyTime1025/LuckyTime1025** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 <head>
-```mermaid
-graph TB
-    A[把大象放进去] --> B{"冰箱小不小？"}
-    B -->|不小| C[把冰箱门关上]
-    B -->|小| D[换个大冰箱]
-```
-
 Here are some ideas to get you started:
 <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
 
