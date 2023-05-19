@@ -3,15 +3,6 @@
 </head>
 
 ![banner](./media/banner.png)
-
-```mermaid
-graph TB;
-     A-->B;
-     A-->C;
-     B-->D;
-     C-->D;
-```
-
 <p>I am an aspiring full stack developer. I have experience working with Java, Python, Go and Rust.
 </p>
 <h2 align="center">Connect with Me !! 🤝</h2>
