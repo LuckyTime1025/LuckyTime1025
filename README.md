@@ -14,9 +14,6 @@
   <a href="https://t.me/LuckyTime1025">
     <img src="./media/telegram.svg">
   </a>
-  <a href="https://twitter.com/Lucky18392706?s=09">
-    <img src="./media/twitter.gif"/>
-  </a>
 </p>
 <!--
 **LuckyTime1025/LuckyTime1025** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
